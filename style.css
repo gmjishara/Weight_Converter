@@ -10,7 +10,7 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background:#FF532A;
+    background:#f1cbff;
 }
 
 
@@ -39,7 +39,7 @@ body{
     height: 3px;
     margin:15px auto;
     border-radius: 40%;
-    background-color:#FF532A;
+    background-color:#f1cbff;
 }
 
 .content{
